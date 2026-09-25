@@ -3,7 +3,7 @@ Bonjour, je m'appelle Paul et je suis étudiant ingénieur à l'IG2I – Central
 
 ## Projets
 
-* En cours de dév...*
+* **[MonuQuest](https://github.com/paul-zb/MonuQuest)** — Application web développée dans le cadre du cursus d'ingénieur (LE1). Le site répertorie des monuments à travers le monde en s'appuyant sur une architecture MVC en PHP et un stockage MySQL/MariaDB.
 
 ## 🛠️ Compétences
 
